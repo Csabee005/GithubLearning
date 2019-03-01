@@ -1,3 +1,2 @@
 This text is just a test, to see how tortoiseGit can handle branching
 Ez most már jó formátum
-File2 text
