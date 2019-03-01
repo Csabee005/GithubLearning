@@ -1,1 +1,2 @@
-File1 text
+This file contains specific information about the current project:
+Find this info in file2.txt

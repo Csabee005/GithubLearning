@@ -1,1 +1,1 @@
-File2 text
+This text is just a test, to see how tortoiseGit can handle branching
