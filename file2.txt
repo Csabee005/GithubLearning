@@ -1,1 +1,4 @@
 This text is just a test, to see how tortoiseGit can handle branching
+Ez is teljesen rossz formátum. sd sad 
+asd as
+File2 text
